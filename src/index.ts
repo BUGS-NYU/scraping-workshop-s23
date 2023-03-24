@@ -1,6 +1,5 @@
 const { chromium } = require('playwright');
-const fs = require('fs');
-
+// const fs = require('fs');  // used for interacting with file system (read/write)
 
 async function main() {
     // Setup
